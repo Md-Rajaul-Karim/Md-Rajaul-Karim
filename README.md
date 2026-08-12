@@ -4,7 +4,7 @@
 
 # Hi, I'm Md. Rajaul Karim
 
-### Software Engineer
+### Software Developer
 
 #### C# • ASP.NET Core • REST API • MVC • Web Forms • Oracle PL/SQL • PostgreSQL • React
 
@@ -20,11 +20,9 @@
 
 ## About Me
 
-I'm a Software Engineer building and maintaining **ERP and healthcare management systems** with **C#, ASP.NET Core, ASP.NET Web Forms, Oracle, PostgreSQL and React**. My day-to-day is API development, Oracle PL/SQL stored procedures, server-side reporting, and modernizing legacy Web Forms applications into clean .NET + React architectures.
+I'm a Software Developer building and maintaining **ERP and healthcare management systems** with **C#, ASP.NET Core, ASP.NET Web Forms, Oracle, PostgreSQL and React**. My day-to-day is API development, Oracle PL/SQL stored procedures, server-side reporting, and modernizing legacy Web Forms applications into clean .NET + React architectures.
 
-- Currently working as a **Software Engineer at Global Mediklaud (BD) Limited** since October 2022, developing multi-tenant Hospital ERP products.
-- MSc in Physics from Cumilla Victoria Govt. College.
-- Completed **Enterprise Systems Analysis & Design (C#/.NET)** training under the IsDB-BISEW IT Scholarship Programme.
+- Currently a **Software Developer at Global MediKlaud (BD) Limited** (Oct 2022 - Present), maintaining multi-tenant Hospital ERP products across three concurrent client deployments.
 - Core domains: **Hospital Management, Pharmacy, HR/Payroll, Accounts, Point of Sale**.
 - Heavy focus on **reporting** - QuestPDF server-side PDFs, ExcelJS exports, and Telerik Reporting on legacy stacks.
 - Working with **Clean Architecture, Repository Pattern, SOLID principles** and modular .NET 8 backends.
@@ -34,9 +32,20 @@ I'm a Software Engineer building and maintaining **ERP and healthcare management
 
 ## Professional Experience
 
-| Role | Company | Duration |
-|---|---|---|
-| Software Engineer | Global Mediklaud (BD) Limited | Oct 2022 – Present |
+### Software Developer
+**Global MediKlaud (BD) Limited** &middot; Baridhara DOHS, Dhaka &middot; Full-time, On-site &middot; `Oct 2022 - Present`
+
+- Designed and delivered 50+ server-side PDF report modules, connecting Oracle stored procedures to ASP.NET Core Web APIs and building parameter-driven, filterable React UIs.
+- Built a reusable ExcelJS export facility replicating styled PDF report layouts (company headers, grouped subtotals, and merged invoice cells), adopted across all report modules.
+- Maintained two parallel client deployments (Global and Aster) on a shared ASP.NET Core / React codebase against separate Oracle schemas, ensuring consistent behavior across both environments.
+- Developed RESTful ASP.NET Core Web APIs for secure, efficient data exchange between React frontends and Oracle-backed stored procedures.
+- Working on a third client deployment (DCCI) built on .NET 8 Clean Architecture with PostgreSQL, Entity Framework Core, and Dapper.
+
+### Trainee Software Engineer
+**Corporate Projukti Limited** &middot; Gulshan, Dhaka &middot; Full-time, On-site &middot; `Mar 2022 - Sep 2022`
+
+- Contributed across frontend, backend, and database layers on ASP.NET Core MVC projects within a small development team.
+- Participated in the full project lifecycle, from requirements gathering to implementation and basic database design.
 
 ---
 
@@ -62,7 +71,7 @@ I'm a Software Engineer building and maintaining **ERP and healthcare management
 | **P_HRM** | JavaScript, .NET, SQL | Human Resource Management module - employee records, attendance, leave and payroll processing with printable reports. | [Code](https://github.com/Md-Rajaul-Karim/P_HRM) |
 | **Permission Management** | ASP.NET Core, Identity, EF Core | Role and claim based permission system with dynamic menu/action level authorization for enterprise applications. | [Code](https://github.com/Md-Rajaul-Karim/PermissionManagement) |
 | **MVC Core Project** | ASP.NET Core MVC, EF Core | ASP.NET Core MVC reference application demonstrating CRUD, validation, dependency injection and layered project structure. | [Code](https://github.com/Md-Rajaul-Karim/Mvc-Core-Project) |
-| **Portfolio Site** | HTML, CSS, JavaScript | Personal portfolio showcasing projects, skills and contact information. | [Code](https://github.com/Md-Rajaul-Karim/Md-Rajaul-Karim.github.io) · [Live](https://md-rajaul-karim.github.io) |
+| **Portfolio Site** | HTML, CSS, JavaScript | Personal portfolio showcasing projects, skills and contact information. | [Code](https://github.com/Md-Rajaul-Karim/Md-Rajaul-Karim.github.io) &middot; [Live](https://md-rajaul-karim.github.io) |
 
 ---
 
@@ -83,26 +92,13 @@ I'm a Software Engineer building and maintaining **ERP and healthcare management
 
 ---
 
-## What I Work On
+## Education
 
-<div align="center">
+**Enterprise Systems Analysis & Design &mdash; C#/.NET**
+IsDB-BISEW IT Scholarship Programme &middot; `Oct 2020 - Feb 2022`
 
-| Area | Details |
-|---|---|
-| **Domain** | Hospital ERP, Pharmacy, Diagnostics, HR & Payroll, Accounts, POS |
-| **Backend** | ASP.NET Core Web API, ASP.NET Web Forms, .NET 8 Clean Architecture |
-| **Database** | Oracle (PL/SQL packages & procedures), PostgreSQL, SQL Server |
-| **Frontend** | React 18, JavaScript, jQuery, Bootstrap |
-| **Reporting** | QuestPDF server-side PDF, ExcelJS styled exports, Telerik Reporting |
-
-</div>
-
----
-
-## Education & Training
-
-- **MSc in Physics** — Cumilla Victoria Govt. College
-- **Enterprise Systems Analysis & Design (C#/.NET)** — IsDB-BISEW IT Scholarship Programme
+**M.Sc in Physics**
+National University, Bangladesh (Cumilla Victoria Govt. College)
 
 ---
 
@@ -119,6 +115,6 @@ I'm a Software Engineer building and maintaining **ERP and healthcare management
 
 <div align="center">
 
-**Open to backend engineering and full-stack .NET opportunities** - feel free to reach out via email or LinkedIn.
+**Open to backend engineering and full-stack .NET opportunities** &mdash; feel free to reach out via email or LinkedIn.
 
 </div>
